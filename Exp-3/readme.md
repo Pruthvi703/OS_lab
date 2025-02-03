@@ -308,7 +308,7 @@ int main() {
 > `./exec-name`
 >
 >  # Output of the program
-> ![ Screen Shot 1](fcfs.png)
+> ![ Screen Shot 1](Fcfs.png)
 > ![ Screen Shot 2](sjf.png)
 > ![ Screen Shot 3](priority.png)
 > ![ Screen Shot 4](round_robin.png)
